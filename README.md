@@ -1,4 +1,4 @@
-# Instrument.Template Package
+# Focus EVCxxx
 
 ## Installation & Usage
 
